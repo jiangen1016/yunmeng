@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.f454467c.css",
-    "main.js": "/static/js/main.2fd0df00.js",
-    "static/js/787.d4d3b261.chunk.js": "/static/js/787.d4d3b261.chunk.js",
-    "static/media/wechat-info.png": "/static/media/wechat-info.70031576f1deb081d1e0.png",
-    "static/media/wechat.jpg": "/static/media/wechat.5490289fbf975efb150e.jpg",
-    "static/media/kuaishou.png": "/static/media/kuaishou.1d669bfd4259a6052487.png",
-    "static/media/bilibili.svg": "/static/media/bilibili.7b0caa09d81eb886c16473f820143060.svg",
-    "static/media/hupu.svg": "/static/media/hupu.888abef33db8d334d15eb471e6deeef8.svg",
-    "index.html": "/index.html",
-    "main.f454467c.css.map": "/static/css/main.f454467c.css.map",
-    "main.2fd0df00.js.map": "/static/js/main.2fd0df00.js.map",
-    "787.d4d3b261.chunk.js.map": "/static/js/787.d4d3b261.chunk.js.map"
+    "main.css": "./static/css/main.f454467c.css",
+    "main.js": "./static/js/main.b2b2fec1.js",
+    "static/js/787.d4d3b261.chunk.js": "./static/js/787.d4d3b261.chunk.js",
+    "static/media/kuaishou.png": "./static/media/kuaishou.1d669bfd4259a6052487.png",
+    "static/media/wechat-info.jpg": "./static/media/wechat-info.314ae3cd300870c2122d.jpg",
+    "static/media/wechat.jpeg": "./static/media/wechat.026c8ea3777a76d4b723.jpeg",
+    "static/media/bilibili.svg": "./static/media/bilibili.7b0caa09d81eb886c16473f820143060.svg",
+    "static/media/hupu.svg": "./static/media/hupu.888abef33db8d334d15eb471e6deeef8.svg",
+    "index.html": "./index.html",
+    "main.f454467c.css.map": "./static/css/main.f454467c.css.map",
+    "main.b2b2fec1.js.map": "./static/js/main.b2b2fec1.js.map",
+    "787.d4d3b261.chunk.js.map": "./static/js/787.d4d3b261.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f454467c.css",
-    "static/js/main.2fd0df00.js"
+    "static/js/main.b2b2fec1.js"
   ]
 }
